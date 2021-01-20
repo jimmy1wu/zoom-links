@@ -1,0 +1,20 @@
+{
+  "name": "zoom-links",
+  "version": "1.0.0",
+  "description": "Manage and join your recurring Zoom meetings from the CLI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jimmy Wu",
+  "license": "MIT",
+  "bin": {
+    "zm": "./bin/zm.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "configstore": "^5.0.1",
+    "open": "^7.3.1",
+    "yargs": "^16.2.0"
+  }
+}
