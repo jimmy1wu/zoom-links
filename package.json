@@ -9,7 +9,7 @@
   "author": "Jimmy Wu",
   "license": "MIT",
   "bin": {
-    "zm": "./bin/zm.js"
+    "zm": "./bin/zm"
   },
   "dependencies": {
     "chalk": "^4.1.0",
