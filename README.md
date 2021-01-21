@@ -1,7 +1,7 @@
 # Zoom Links
 
 If you are like me and my friends, you probably scramble to find the Zoom meeting link a minute before it begins.
-Manage your recurring Zoom meetings using the CLI. Not affiliated with `zoom.us`.
+Manage and join your recurring Zoom meetings using the CLI. Not affiliated with `zoom.us`.
 
 ## Getting Started
 
